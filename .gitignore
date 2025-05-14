@@ -130,6 +130,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
+book_recommender_env/
 env/
 venv/
 ENV/
